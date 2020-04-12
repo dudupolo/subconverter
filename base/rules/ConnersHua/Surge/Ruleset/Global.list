@@ -378,10 +378,12 @@ DOMAIN-SUFFIX,zb.com
 DOMAIN-SUFFIX,zello.com
 DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,zoom.us
+DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,jav
 DOMAIN-KEYWORD,pinterest
 DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,stockx
 DOMAIN-KEYWORD,wikileaks
 
 # (Region-Restricted Access Denied)
