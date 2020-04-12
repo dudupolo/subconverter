@@ -1,4 +1,4 @@
-# Update > 2020.4.9 Go advertising rule Integration lhie1 and ConnersHua
+# Update > 2020.4.1 Go advertising rule Integration lhie1 and ConnersHua
 DOMAIN,mcupdate.gstarcad.com
 DOMAIN,adx.open-adx.com
 DOMAIN,adservice.sigmob.cn
@@ -1286,7 +1286,6 @@ DOMAIN-SUFFIX,ailicee.com
 DOMAIN-SUFFIX,aim.yoyi.com.cn
 DOMAIN-SUFFIX,air.yoyi.com.cn
 DOMAIN-SUFFIX,airpush.com
-DOMAIN-SUFFIX,airpushmarketing.s3.amazonaws.com
 DOMAIN-SUFFIX,ais.abacast.com
 DOMAIN-SUFFIX,aishang.bid
 DOMAIN-SUFFIX,aishiguolong.com
@@ -3172,7 +3171,6 @@ DOMAIN-SUFFIX,e-p4p.163.com
 DOMAIN-SUFFIX,epernn.cn
 DOMAIN-SUFFIX,epochtimes.org
 DOMAIN-SUFFIX,epochweekly.com
-DOMAIN-SUFFIX,epowernetworktrackerimages.s3.amazonaws.com
 DOMAIN-SUFFIX,er.dlhygj.com
 DOMAIN-SUFFIX,erebor.douban.com
 DOMAIN-SUFFIX,ereg.adobe.com
@@ -3452,7 +3450,6 @@ DOMAIN-SUFFIX,ganjituiguang.ganji.com
 DOMAIN-SUFFIX,gao.ynet.com
 DOMAIN-SUFFIX,gas.data.pplive.com
 DOMAIN-SUFFIX,gateway.fortunelounge.com
-DOMAIN-SUFFIX,gateways.s3.amazonaws.com
 DOMAIN-SUFFIX,gb.corp.163.com
 DOMAIN-SUFFIX,gc.keefung-zs.com
 DOMAIN-SUFFIX,gcapi.sy.kugou.com
@@ -3807,6 +3804,7 @@ DOMAIN-SUFFIX,i.bigmir.net
 DOMAIN-SUFFIX,i.clkservice.youdao.com
 DOMAIN-SUFFIX,i.dreamfull.cn
 DOMAIN-SUFFIX,i.flow.browser.oppomobile.com
+DOMAIN-SUFFIX,i.gdt.qq.com
 DOMAIN-SUFFIX,i.go.sohu.com
 DOMAIN-SUFFIX,i.haloapps.com
 DOMAIN-SUFFIX,i.hao61.net
@@ -4423,7 +4421,6 @@ DOMAIN-SUFFIX,kaitongyewu.com
 DOMAIN-SUFFIX,karma.mdpcdn.com
 DOMAIN-SUFFIX,kas.keydot.net
 DOMAIN-SUFFIX,kawa11.space
-DOMAIN-SUFFIX,kbnetworkz.s3.amazonaws.com
 DOMAIN-SUFFIX,kddtri.cn
 DOMAIN-SUFFIX,kejet.com
 DOMAIN-SUFFIX,kejet.net
@@ -5056,7 +5053,6 @@ DOMAIN-SUFFIX,mad.kuuad.com
 DOMAIN-SUFFIX,mad.m.maxthon.cn
 DOMAIN-SUFFIX,madhouse.cn
 DOMAIN-SUFFIX,madmini.com
-DOMAIN-SUFFIX,mads.amazon.com
 DOMAIN-SUFFIX,mads.aol.com
 DOMAIN-SUFFIX,mads.dailymail.co.uk
 DOMAIN-SUFFIX,madserving.com
@@ -6357,7 +6353,6 @@ DOMAIN-SUFFIX,scw0.com
 DOMAIN-SUFFIX,sd.0.0.0.0.cn
 DOMAIN-SUFFIX,sd.kk3g.net
 DOMAIN-SUFFIX,sdac.lenovomm.com
-DOMAIN-SUFFIX,sdb.amazonaws.com
 DOMAIN-SUFFIX,sdhzstone.net
 DOMAIN-SUFFIX,sdk.appadhoc.com
 DOMAIN-SUFFIX,sdk.cdnmaster.com
@@ -6392,7 +6387,6 @@ DOMAIN-SUFFIX,seavideo-ak.espn.go.com
 DOMAIN-SUFFIX,sebar.thand.info
 DOMAIN-SUFFIX,sec.resource.xiaomi.net
 DOMAIN-SUFFIX,secpay.wostore.cn
-DOMAIN-SUFFIX,secretmedia.s3.amazonaws.com
 DOMAIN-SUFFIX,secure.dsp.com
 DOMAIN-SUFFIX,secure.fastclick.net
 DOMAIN-SUFFIX,secure.img-cdn.mediaplex.com
@@ -6517,7 +6511,6 @@ DOMAIN-SUFFIX,sm.0.0.0.0.cn
 DOMAIN-SUFFIX,sm1.todgo.com
 DOMAIN-SUFFIX,sm2.todgo.com
 DOMAIN-SUFFIX,smartmad.com
-DOMAIN-SUFFIX,smblock.s3.amazonaws.com
 DOMAIN-SUFFIX,smucdn.com
 DOMAIN-SUFFIX,smxay.com
 DOMAIN-SUFFIX,smxsg.com
@@ -7388,7 +7381,6 @@ DOMAIN-SUFFIX,wgo.mmstat.com
 DOMAIN-SUFFIX,whafwl.com
 DOMAIN-SUFFIX,whalecloud.com
 DOMAIN-SUFFIX,whcrdz.com
-DOMAIN-SUFFIX,whistleout.s3.amazonaws.com
 DOMAIN-SUFFIX,whn.star-media.cn
 DOMAIN-SUFFIX,whpxy.com
 DOMAIN-SUFFIX,whu.cwpush.com
@@ -8001,7 +7993,6 @@ DOMAIN-SUFFIX,adsensor.org
 DOMAIN-SUFFIX,adtarget.tech
 DOMAIN-SUFFIX,adthor.com
 DOMAIN-SUFFIX,adwhirl.com
-DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,amobee.com
 DOMAIN-SUFFIX,analysys.cn
 DOMAIN-SUFFIX,app-adforce.jp
@@ -8390,7 +8381,6 @@ DOMAIN-SUFFIX,zzd6.com
 DOMAIN-SUFFIX,mackeeper.com
 DOMAIN,geo2.adobe.com
 DOMAIN-KEYWORD,inmobi
-DOMAIN-KEYWORD,adsystem
 DOMAIN-KEYWORD,appsflyer
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-KEYWORD,fenxi
