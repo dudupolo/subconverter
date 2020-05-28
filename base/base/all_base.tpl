@@ -116,16 +116,22 @@ server=1.0.0.1
 server=8.8.8.8
 
 [policy]
-static=♻️ 自动选择, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Auto.png
-static=🔰 节点选择, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Proxy.png
-static=🌍 国外媒体, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/GlobalMedia.png
-static=🌏 国内媒体, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/DomesticMedia.png
-static=Ⓜ️ 微软服务, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Microsoft.png
 static=📲 电报信息, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Telegram.png
+static=🎥 NETFLIX, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netflix.png
+static=📺 AbemaTv, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/AbemaTV.png
+static=🌍 国外媒体, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/GlobalMeadia.png
+static=🎵 Netease Music, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netease_Music.png
 static=🍎 苹果服务, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple.png
-static=🎯 全球直连, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Direct.png
-static=🛑 全球拦截, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Advertising.png
+static=🛑 全球拦截, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/AdBlack.png
 static=🐟 漏网之鱼, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Final.png
+static=🇭🇰 香港, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/HK.png
+static=🇹🇼 台湾, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/TW.png
+static=🇰🇷 韩国, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/KR.png
+static=🇯🇵 日本, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/JP.png
+static=🇸🇬 新加坡, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/SG.png
+static=🇺🇸 美国, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/US.png
+static=🚄 原生, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Rocket.png
+static=🔰 代理模式, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Global.png
 
 [server_remote]
 
